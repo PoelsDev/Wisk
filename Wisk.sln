@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wisk", "Wisk\Wisk.csproj", "{5529195E-D116-40DA-9CDD-E5CFAEB6849D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiskLib", "WiskLib\WiskLib.csproj", "{77D4D947-1C05-4506-A808-FDEB21813905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiskLibTests", "WiskLibTests\WiskLibTests.csproj", "{F4D24D10-B28A-4224-B6D5-7DF943EA449E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5529195E-D116-40DA-9CDD-E5CFAEB6849D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5529195E-D116-40DA-9CDD-E5CFAEB6849D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5529195E-D116-40DA-9CDD-E5CFAEB6849D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5529195E-D116-40DA-9CDD-E5CFAEB6849D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77D4D947-1C05-4506-A808-FDEB21813905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D4D947-1C05-4506-A808-FDEB21813905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D4D947-1C05-4506-A808-FDEB21813905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D4D947-1C05-4506-A808-FDEB21813905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4D24D10-B28A-4224-B6D5-7DF943EA449E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D24D10-B28A-4224-B6D5-7DF943EA449E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4D24D10-B28A-4224-B6D5-7DF943EA449E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4D24D10-B28A-4224-B6D5-7DF943EA449E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAFB11AC-0258-4F01-9644-9D2B66609821}
+	EndGlobalSection
+EndGlobal

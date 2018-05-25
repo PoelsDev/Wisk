@@ -1,0 +1,16 @@
+C:\Users\thibault.poels\source\repos\Wisk\WiskLibTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\thibault.poels\source\repos\Wisk\WiskLibTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\thibault.poels\source\repos\Wisk\WiskLibTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\thibault.poels\source\repos\Wisk\WiskLibTests\bin\Debug\netcoreapp2.0\WiskLibTests.deps.json
+C:\Users\thibault.poels\source\repos\Wisk\WiskLibTests\bin\Debug\netcoreapp2.0\WiskLibTests.runtimeconfig.json
+C:\Users\thibault.poels\source\repos\Wisk\WiskLibTests\bin\Debug\netcoreapp2.0\WiskLibTests.runtimeconfig.dev.json
+C:\Users\thibault.poels\source\repos\Wisk\WiskLibTests\bin\Debug\netcoreapp2.0\WiskLibTests.dll
+C:\Users\thibault.poels\source\repos\Wisk\WiskLibTests\bin\Debug\netcoreapp2.0\WiskLibTests.pdb
+C:\Users\thibault.poels\source\repos\Wisk\WiskLibTests\bin\Debug\netcoreapp2.0\WiskLib.dll
+C:\Users\thibault.poels\source\repos\Wisk\WiskLibTests\bin\Debug\netcoreapp2.0\WiskLib.pdb
+C:\Users\thibault.poels\source\repos\Wisk\WiskLibTests\obj\Debug\netcoreapp2.0\WiskLibTests.csprojResolveAssemblyReference.cache
+C:\Users\thibault.poels\source\repos\Wisk\WiskLibTests\obj\Debug\netcoreapp2.0\WiskLibTests.csproj.CoreCompileInputs.cache
+C:\Users\thibault.poels\source\repos\Wisk\WiskLibTests\obj\Debug\netcoreapp2.0\WiskLibTests.AssemblyInfoInputs.cache
+C:\Users\thibault.poels\source\repos\Wisk\WiskLibTests\obj\Debug\netcoreapp2.0\WiskLibTests.AssemblyInfo.cs
+C:\Users\thibault.poels\source\repos\Wisk\WiskLibTests\obj\Debug\netcoreapp2.0\WiskLibTests.dll
+C:\Users\thibault.poels\source\repos\Wisk\WiskLibTests\obj\Debug\netcoreapp2.0\WiskLibTests.pdb

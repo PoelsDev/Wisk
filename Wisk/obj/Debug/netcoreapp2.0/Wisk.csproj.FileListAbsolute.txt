@@ -1,0 +1,13 @@
+C:\Users\thibault.poels\source\repos\Wisk\Wisk\bin\Debug\netcoreapp2.0\Wisk.deps.json
+C:\Users\thibault.poels\source\repos\Wisk\Wisk\bin\Debug\netcoreapp2.0\Wisk.runtimeconfig.json
+C:\Users\thibault.poels\source\repos\Wisk\Wisk\bin\Debug\netcoreapp2.0\Wisk.runtimeconfig.dev.json
+C:\Users\thibault.poels\source\repos\Wisk\Wisk\bin\Debug\netcoreapp2.0\Wisk.dll
+C:\Users\thibault.poels\source\repos\Wisk\Wisk\bin\Debug\netcoreapp2.0\Wisk.pdb
+C:\Users\thibault.poels\source\repos\Wisk\Wisk\bin\Debug\netcoreapp2.0\WiskLib.dll
+C:\Users\thibault.poels\source\repos\Wisk\Wisk\bin\Debug\netcoreapp2.0\WiskLib.pdb
+C:\Users\thibault.poels\source\repos\Wisk\Wisk\obj\Debug\netcoreapp2.0\Wisk.csprojResolveAssemblyReference.cache
+C:\Users\thibault.poels\source\repos\Wisk\Wisk\obj\Debug\netcoreapp2.0\Wisk.csproj.CoreCompileInputs.cache
+C:\Users\thibault.poels\source\repos\Wisk\Wisk\obj\Debug\netcoreapp2.0\Wisk.AssemblyInfoInputs.cache
+C:\Users\thibault.poels\source\repos\Wisk\Wisk\obj\Debug\netcoreapp2.0\Wisk.AssemblyInfo.cs
+C:\Users\thibault.poels\source\repos\Wisk\Wisk\obj\Debug\netcoreapp2.0\Wisk.dll
+C:\Users\thibault.poels\source\repos\Wisk\Wisk\obj\Debug\netcoreapp2.0\Wisk.pdb
